@@ -1,0 +1,4 @@
+node_modules/
+task_env/
+db.sqlite3
+__pycache__/
